@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasminethind
 - 👀 I’m interested in coding, games and puzzles!
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me jaskthind2@gmail.com
 
 <!---
